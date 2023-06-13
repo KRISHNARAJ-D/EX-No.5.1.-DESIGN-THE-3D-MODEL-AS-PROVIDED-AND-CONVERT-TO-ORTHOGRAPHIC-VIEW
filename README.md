@@ -36,7 +36,7 @@ Switch to drawing mode from design mode
 <img height=30% width=50% src="https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png">
 
 ## OUTPUT:
-<img height=30% width=50% src="Ex5 1 (1)_page-0001](https://github.com/KRISHNARAJ-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559695/11ba33e4-eda1-48b3-8953-c158e5533d25">
+<img height=40% width=50% src="https://github.com/KRISHNARAJ-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559695/11ba33e4-eda1-48b3-8953-c158e5533d25">
 
 
 ## RESULT:
