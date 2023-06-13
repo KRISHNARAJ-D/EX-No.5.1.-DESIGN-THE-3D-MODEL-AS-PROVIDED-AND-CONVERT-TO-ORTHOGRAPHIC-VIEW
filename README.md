@@ -32,10 +32,14 @@ Switch to drawing mode from design mode
 1. Select the base view and position the model to project from base view 
 2. Select the projected view to generate orthographic projections
 
-## INPUT
+## INPUT:
+
+
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
-## OUTPUT
+## OUTPUT:
+
+
 ![Ex5 1 (1)_page-0001](https://github.com/KRISHNARAJ-D/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119559695/11ba33e4-eda1-48b3-8953-c158e5533d25)
 
 
